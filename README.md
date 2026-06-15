@@ -1,4 +1,4 @@
-# Cinemax
+# CinePrime
 
 Contoh aplikasi film sederhana dari flutter.
 
