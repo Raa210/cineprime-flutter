@@ -1,6 +1,6 @@
-# movie
+# Cinemax
 
-A new Flutter project.
+Contoh aplikasi film sederhana dari flutter.
 
 ## Getting Started
 
